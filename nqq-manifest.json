@@ -1,0 +1,10 @@
+{
+  "name": "JSON Tools",
+  "unique_name": "com.ocheze.json-tools",
+  "author": "Borislav Kirilov",
+  "version": "1.0.0",
+  "description": "A Notepadqq extension for formatting and validating JSON.",
+  "runtime": "nodejs",
+  "main": "main.js"
+}
+

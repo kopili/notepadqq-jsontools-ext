@@ -1,0 +1,8 @@
+{
+  "name": "json-tools",
+  "version": "1.0.0",
+  "dependencies": {
+    "notepadqq-api": "^0.9.5"
+  },
+  "private": true
+}
